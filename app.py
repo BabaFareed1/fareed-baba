@@ -278,7 +278,7 @@ Order Now
 <img src="/static/images/women_abaya.jpg">
 <h3>Premium Abaya</h3>
 <p class="price">Coming Soon</p>
-<a class="btn" href="https://wa.me/919936739281">Order Now</a>
+
 </div>
 
 </div>
