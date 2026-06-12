@@ -153,6 +153,27 @@ background:black;
 color:gold;
 border:1px solid gold;
 }
+.back-home-container{
+    text-align:center;
+    margin:50px 0;
+}
+
+.back-btn{
+    display:inline-block;
+    padding:15px 35px;
+    background:gold;
+    color:black;
+    text-decoration:none;
+    border-radius:30px;
+    font-weight:bold;
+    font-size:18px;
+    transition:0.3s;
+}
+
+.back-btn:hover{
+    background:white;
+    color:black;
+}
 
 /* WHY US */
 
@@ -494,7 +515,9 @@ Order Now
 <a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-13 Titanium Octane">Order Now</a>
 </div>
 
-<a href="/" class="btn">Back Home</a>
+<div class="back-home-container">
+    <a href="/" class="back-btn">← Back to Home</a>
+</div>
 
 </body>
 </html>
