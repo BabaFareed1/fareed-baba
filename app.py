@@ -330,16 +330,13 @@ Order Now
 <div class="card">
 <img src="/static/images/women_bag.jpg">
 <h3>Designer Handbag</h3>
-<p class="price">₹2,499</p>
-<a class="btn" href="https://wa.me/919936739281">Order Now</a>
+<p class="price">₹Coming Soon</p>
+
 </div>
 <div class="card">
 <img src="/static/images/bag1.jpg">
 <h3>Luxury Handbag</h3>
-<p class="price">₹599</p>
-<a class="btn" href="https://wa.me/919936739281?text=I want to order Luxury Handbag">
-Order Now
-</a>
+<p class="price">Coming Soon</p>
 </div>
 
 <div class="card">
@@ -359,22 +356,19 @@ Order Now
 <div class="card">
 <img src="/static/images/kids_cap.jpg">
 <h3>Kids Cap</h3>
-<p class="price">₹499</p>
-<a class="btn" href="https://wa.me/919936739281">Order Now</a>
+<p class="price">Coming Soon</p>
 </div>
+
 <div class="card">
 <img src="/static/images/cap1.jpg">
 <h3>Kids Fashion Cap</h3>
-<p class="price">₹199</p>
-<a class="btn" href="https://wa.me/919936739281?text=I want to order Kids Fashion Cap">
-Order Now
-</a>
+<p class="price">Coming Soon</p>
 </div>
+
 <div class="card">
 <img src="/static/images/kids_glasses.jpg">
 <h3>Kids Sunglasses</h3>
-<p class="price">₹799</p>
-<a class="btn" href="https://wa.me/919936739281">Order Now</a>
+<p class="price">Coming Soon</p>
 </div>
 
 </div>
