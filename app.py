@@ -208,7 +208,103 @@ Wallets
 <div class="section" id="mens_sunglasses">
 
 <h2>Men's Sunglasses</h2>
+<div class="section">
 
+<h2>FAREED BABA Signature Sunglasses Collection</h2>
+<p class="section-sub">Designed for those who lead, not follow.</p>
+
+<div class="card">
+<img src="/static/images/sg01_Midnight_Commander.jpeg">
+<h3>Midnight Commander</h3>
+<p class="price">₹499</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-01 Midnight Commander">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg02_Shadow_Edge.jpeg">
+<h3>Shadow Edge</h3>
+<p class="price">₹499</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-02 Shadow Edge">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg03_Arctic_Blue_Mirror.jpeg">
+<h3>Arctic Blue Mirror</h3>
+<p class="price">₹549</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-03 Arctic Blue Mirror">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg04_Ivory_Luxe.jpeg">
+<h3>Ivory Luxe</h3>
+<p class="price">₹549</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-04 Ivory Luxe">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg05_Golden_Aviator_Elite.jpeg">
+<h3>Golden Aviator Elite</h3>
+<p class="price">₹599</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-05 Golden Aviator Elite">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg06_Crimson_Pilot.jpeg">
+<h3>Crimson Pilot</h3>
+<p class="price">₹599</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-06 Crimson Pilot">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg07_Royal_Amber.jpeg">
+<h3>Royal Amber</h3>
+<p class="price">₹649</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-07 Royal Amber">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg08_Stealth_Carbon.jpeg">
+<h3>Stealth Carbon</h3>
+<p class="price">₹649</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-08 Stealth Carbon">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg09_Titan_Hexa.jpeg">
+<h3>Titan Hexa</h3>
+<p class="price">₹699</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-09 Titan Hexa">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg10_Urban_Graphite.jpeg">
+<h3>Urban Graphite</h3>
+<p class="price">₹699</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-10 Urban Graphite">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg11_Black_Phantom.jpeg">
+<h3>Black Phantom</h3>
+<p class="price">₹749</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-11 Black Phantom">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg12_Desert_Gold_Aviator.jpeg">
+<h3>Desert Gold Aviator</h3>
+<p class="price">₹799</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-12 Desert Gold Aviator">Order Now</a>
+</div>
+
+<div class="card">
+<img src="/static/images/sg13_Titanium_Octane.jpeg">
+<h3>Titanium Octane</h3>
+<p class="price">₹899</p>
+<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-13 Titanium Octane">Order Now</a>
+</div>
+
+</div>
 <div class="card">
 <img src="/static/images/men_sunglass.jpg">
 <h3>Premium Sunglasses</h3>
