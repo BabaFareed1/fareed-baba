@@ -254,17 +254,6 @@ View Collection
 </div>
 <div class="section" id="mens_wallets">
 
-<h2>Men's Wallets</h2>
-
-<div class="card">
-<img src="/static/images/men_wallet.jpg">
-<h3>Leather Wallet</h3>
-<p class="price">₹999</p>
-<a class="btn"
-href="https://wa.me/919936739281?text=I want Leather Wallet">
-Order Now
-</a>
-</div>
 
 <div class="section" id="women">
 <h2>Women's Collection</h2>
