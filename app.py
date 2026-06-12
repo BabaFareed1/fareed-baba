@@ -224,7 +224,7 @@ Wallets
 <img src="/static/images/sg02_Shadow_Edge.jpeg">
 <h3>Shadow Edge</h3>
 <p class="price">₹499</p>
-<a class="btn" href="https://wa.me/919936739281?text=I want FB-SG-02 Shadow Edge">Order Now</a>
+<a class="btn" href="https://wa.me/919936739281?text=Hello%20Fareed%20Baba,%0A%0AI%20am%20interested%20in%20purchasing:%0A%0AProduct:%20Midnight%20Commander%0ACode:%20FB-SG-01%0APrice:%20₹499%0A%0APlease%20share%20availability%20and%20delivery%20details.%0A%0AThank%20you." target="_blank">Order on WhatsApp</a>
 </div>
 
 <div class="card">
@@ -305,25 +305,7 @@ Wallets
 </div>
 
 </div>
-<div class="card">
-<img src="/static/images/men_sunglass.jpg">
-<h3>Premium Sunglasses</h3>
-<p class="price">₹1,999</p>
-<a class="btn"
-href="https://wa.me/919936739281?text=I want Premium Sunglasses">
-Order Now
-</a>
-</div>
 
-<div class="card">
-<img src="/static/images/men_sunglass1.jpg">
-<h3>Classic Sunglasses</h3>
-<p class="price">₹249</p>
-<a class="btn"
-href="https://wa.me/919936739281?text=I want Classic Sunglasses">
-Order Now
-</a>
-</div>
 
 </div>
 <div class="section" id="mens_wallets">
